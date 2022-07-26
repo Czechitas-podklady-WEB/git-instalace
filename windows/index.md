@@ -2,7 +2,7 @@
 
 Program `Git` není standardní výbavou systému Windows. Pravděpodobně ho nemáš ještě nainstalovaný. Začni tím, že ověříš, že ho opravdu namáš následovně.
 
-1. Spusť příkazovou řádku / command prompt / `cmd.exe`. To uděláš například tak, že stiskneš na klávesnici najednou klávesu s logem Windows a písmeno `r`. Vlevo dole na tebe vyskočí okénko, do kterého napiš `cmd` a klikni na `OK`.
+1. Spusť příkazovou řádku / command prompt / `cmd.exe`. To uděláš například tak, že stiskneš na klávesnici najednou **klávesu s logem Windows a písmeno `r`**. Vlevo dole na tebe vyskočí okénko, do kterého napiš `cmd` a klikni na `OK`.
 
    ![okno pro spuštění programu](okno-r.png)
 

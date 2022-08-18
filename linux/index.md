@@ -10,7 +10,7 @@ Na Linuxu máš s největší pravděpodobnostní program `git` již nainstalova
 
    ![terminál s nainstalovaným Gitem](git-version-nainstalovane.png)
 
-1. Pokud se vypsalo něco jako `Command 'git' not found, did you mean: …`, pokračuj následovně.
+1. Pokud se vypsalo něco jako `Command 'git' not found, did you mean: …`, pokračuj podle instrukcí v dalším bodě.
 
    ![terminál s nenainstalovaným Gitem](git-version-nenainstalovane.png)
 

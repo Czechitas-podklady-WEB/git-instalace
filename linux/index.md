@@ -16,4 +16,4 @@ Na Linuxu máš s největší pravděpodobnostní program `git` již nainstalova
 
 1. Vyber a použij příkaz příslušící tvé linuxové distribuci podle instrukcí na stránce [git-scm.com/download/linux](https://git-scm.com/download/linux).
 
-1. Terminál zavři a vrať se k prvnímu kroku.
+1. Terminál zavři a vrať se k prvním krokům pro ověření, že Git máš správně nainstalovaný.

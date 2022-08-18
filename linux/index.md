@@ -14,6 +14,6 @@ Na Linuxu máš s největší pravděpodobnostní program `git` již nainstalova
 
    ![terminál s nenainstalovaným Gitem](git-version-nenainstalovane.png)
 
-1. V závislosti na tvé konkrétní distribuci vyzkoušej některý z příkazů na stránce [git-scm.com](https://git-scm.com/download/linux).
+1. V závislosti na tvé konkrétní distribuci použij některý z příkazů na stránce [git-scm.com](https://git-scm.com/download/linux).
 
 1. Terminál zavři a vrať se k prvnímu kroku.

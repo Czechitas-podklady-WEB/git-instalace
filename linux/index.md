@@ -1,4 +1,4 @@
-# Linux
+# Instalace Gitu v Linuxu
 
 Na Linuxu máš s největší pravděpodobnostní program `git` již nainstalovaný. Správnost instalace ověříš následovně:
 

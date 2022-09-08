@@ -1,4 +1,4 @@
-# Mac
+# Instalace Gitu v Macu
 
 1. Ověř, jestli nemáš Git již nainstalovaný následovným postupem.
 

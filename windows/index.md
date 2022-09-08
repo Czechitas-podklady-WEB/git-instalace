@@ -1,4 +1,4 @@
-# Windows
+# Instalace Gitu ve Windows
 
 Program `Git` není standardní výbavou systému Windows. Pravděpodobně ho nemáš ještě nainstalovaný. Začni tím, že ověříš, že ho opravdu namáš následovně.
 

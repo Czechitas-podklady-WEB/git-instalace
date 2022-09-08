@@ -18,7 +18,7 @@ Pokud již máš účet na [Github.com](https://github.com/), do kterého se um�
 
    ![heslo](heslo.png)
 
-1. Vymysli si unikátní uživatelské jméno. Toho jméno uvidí i ostatní uživatelé. Pro přehlednost můžeš použít kombinaci jména a příjmení. Například `AdelaRychla`. Pokud chceš zatím vystupovat více inkognito, zvol nějakou přezdívku. Uživatelské jméno jde později změnit.
+1. Vymysli si unikátní uživatelské jméno. Toho jméno uvidí i ostatní uživatelé. Pro přehlednost můžeš použít kombinaci jména a příjmení. Například `AdelaRychla` nebo `AdelaRychla007`.
 
    ![uživatelské jméno](uzivatelske-jmeno.png)
 

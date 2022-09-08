@@ -1,7 +1,5 @@
 # Založení účtu na GitHubu
 
-Kromě samotného programu Git se hodí mít i nějaký online účet, kam budeš práci pomocí Gitu zálohovat. Jedna z nejpopulárnějších služeb, která toho navíc nabízí spoustu zdarma, se jmenuje GitHub.
-
 Pokud již máš účet na [Github.com](https://github.com/), do kterého se umíš přes webový prohlížeč přihlásit, tak můžeš následující kroky přeskočit.
 
 1. V případě, že účet ještě nemáš, jdi na adresu [https://github.com/](https://github.com/) a v pravém horním rohu zvol možnost registrovat se (`Sign up`).

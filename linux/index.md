@@ -15,5 +15,6 @@ Na Linuxu máš s největší pravděpodobnostní program `git` již nainstalova
    ![terminál s nenainstalovaným Gitem](git-version-nenainstalovane.png)
 
 1. Vyber a použij příkaz příslušící tvé linuxové distribuci podle instrukcí na stránce [git-scm.com/download/linux](https://git-scm.com/download/linux).
+   Možná budeš muset nalezený příkaz spustit se superuživatelskými právy - na to použij příkaz `sudo`, tedy např. `sudo apt-get install git`. 
 
-1. Terminál zavři a vrať se k prvním krokům pro ověření, že Git máš správně nainstalovaný.
+1. Po instalaci ověř přítomnost programu `git` podle bodů 2 a 3.

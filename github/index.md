@@ -1,4 +1,4 @@
-# Založení účtu na GitHubu
+# Založení účtu na GitHubu <img src="../loga/github.svg" alt="logo GitHubu" width="20px">
 
 Pokud již máš účet na [Github.com](https://github.com/), do kterého se umíš přes webový prohlížeč přihlásit, tak můžeš následující kroky přeskočit.
 

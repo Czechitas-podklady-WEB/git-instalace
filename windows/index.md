@@ -1,4 +1,4 @@
-# Instalace Gitu ve Windows
+# Instalace Gitu <img src="../loga/git.svg" alt="logo Gitu" width="20px"> ve Windows <img src="../loga/windows.svg" alt="logo Windows" width="20px">
 
 Program `Git` není standardní výbavou systému Windows. Pravděpodobně ho nemáš ještě nainstalovaný. Začni tím, že ověříš, že ho opravdu namáš následovně.
 

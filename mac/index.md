@@ -1,4 +1,4 @@
-# Instalace Gitu v Macu
+# Instalace Gitu <img src="../loga/git.svg" alt="logo Gitu" width="20px"> v Macu <img src="../loga/apple.svg" alt="logo Apple" width="20px">
 
 1. Ověř, jestli nemáš Git již nainstalovaný následovným postupem.
 

@@ -18,7 +18,7 @@ Program `Git` není standardní výbavou systému Windows. Pravděpodobně ho ne
 
    ![potvrzení verze](volba-verze.png)
 
-1. Po spuštění instalace budeš muset odklikat větší množství otázek. Většina z nich není příliš zásadní a je je možné celkem bezmyšlenkovitě odklikat. Pojďmě si je ale stejně projít společně.
+1. Po spuštění instalace budeš muset projít větším množstvím otázek. Většina z nich není příliš zásadní a je je možné celkem bezmyšlenkovitě odklikat. Pojďmě si je ale stejně projít společně.
 
 1. V prvním kroku musíš odsouhlasit podmínky použití. **Klikni na `Next`, tedy česky `pokračovat`**.
 

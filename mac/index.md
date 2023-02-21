@@ -4,6 +4,8 @@
 
 1. Spusť už předinstalovanou aplikaci `Terminál` <img src="ikona.png" alt="" width="16" height="16">.
 
+   ![terminál](terminal.png)
+
 1. Napiš do ní `git --version` a stiskni klávesu `Enter`.
 
 1. Pokud se ti na další řádek vypsalo něco zhruba v podobě `git version 2.33.0`, máš Git nainstalovaný a nemusíš nic víc řešit.
